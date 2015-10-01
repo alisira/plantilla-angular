@@ -1,0 +1,8 @@
+{
+    "name": "Nombre", 
+    "version": "1.0.0",
+    "main": "server.js",
+    "dependencies": {
+        "xx" : "~4.5.1  
+    }
+}
